@@ -1,5 +1,5 @@
 # gpt-level
-define levels of GPT 2023
+define levels of GPT(LLM) like levels of driving automation
 
 
 | Level | Define | Example |
