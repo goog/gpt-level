@@ -2,7 +2,7 @@
 define levels of GPT(LLM) like levels of driving automation
 
 
-| Level | Define | Example |
+| Level x.x | Define | Example |
 | :------: | :------: | :------: |
 | LEVEL 0 | / | / |
 | LEVEL 1 | Context-Aware Language Model, make up sentences | GPT-2 February 2019 /torch-rnn |
