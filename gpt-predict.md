@@ -15,5 +15,6 @@ ChatGPT的交互方式**自然语言对话**是一种更简单自然的交互方
 - 一个prompt的查询可能相当查询过了一个小图书馆
 - 一个prompt生成一个代码模块
 - 一个prompt完成一次购物
-- 一个prompt制定一个旅游行程计划   
+- 一个prompt制定一个旅游行程计划  
+- 一个prompt可以生成some sample data by only one sample data      
 不同于以前的人工多次在网上搜索收集信息和不同的点击菜单按钮，现在可能只需要一个prompt（简单的情况下就是一句话）完成一个任务交互。
