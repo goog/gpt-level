@@ -51,7 +51,7 @@ Tactics:
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/give-gpts-time-to-think)
 
-### [Give GPTs time to "think"可以尝试使用CoT(chain of thinking)](https://platform.openai.com/docs/guides/gpt-best-practices/give-gpts-time-to-think)
+### [Give GPTs time to "think"尝试使用CoT(chain of thinking)](https://platform.openai.com/docs/guides/gpt-best-practices/give-gpts-time-to-think)
 
 If asked to multiply 17 by 28, you might not know it instantly, but can still work it out with time. Similarly, GPTs make more reasoning errors when trying to answer right away, rather than taking time to work out an answer. Asking for a chain of reasoning before an answer can help GPTs reason their way toward correct answers more reliably.
 
@@ -74,7 +74,7 @@ Tactics:
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/test-changes-systematically)
 
-### [Test changes systematically系统性地测试改变](https://platform.openai.com/docs/guides/gpt-best-practices/test-changes-systematically)
+### [Test changes systematically系统性地测试改动](https://platform.openai.com/docs/guides/gpt-best-practices/test-changes-systematically)
 
 Improving performance is easier if you can measure it. In some cases a modification to a prompt will achieve better performance on a few isolated examples but lead to worse overall performance on a more representative set of examples. Therefore to be sure that a change is net positive to performance it may be necessary to define a comprehensive test suite (also known an as an "eval").
 
