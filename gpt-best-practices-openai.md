@@ -1,6 +1,6 @@
 [](https://platform.openai.com/docs/guides/gpt-best-practices/gpt-best-practices)
 
-## [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices/gpt-best-practices)
+## [GPT最佳实践](https://platform.openai.com/docs/guides/gpt-best-practices/gpt-best-practices)
 
 This guide shares strategies and tactics for getting better results from GPTs. The methods described here can sometimes be deployed in combination for greater effect. We encourage experimentation to find the methods that work best for you.  
 本指导书分享了帮助取得更好的GPTs结果的策略和方法。有时这些方法可以联合起来使用产生更好的效果。我们鼓励多实验以找到最适合您的方法。    
