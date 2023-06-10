@@ -15,7 +15,8 @@ This guide shares strategies and tactics for getting better results from GPTs. T
 
 ### [Write clear instructions写清晰的指令](https://platform.openai.com/docs/guides/gpt-best-practices/write-clear-instructions)
 
-GPTs can’t read your mind. If outputs are too long, ask for brief replies. If outputs are too simple, ask for expert-level writing. If you dislike the format, demonstrate the format you’d like to see. The less GPTs have to guess at what you want, the more likely you’ll get it.
+GPTs can’t read your mind. If outputs are too long, ask for brief replies. If outputs are too simple, ask for expert-level writing. If you dislike the format, demonstrate the format you’d like to see. The less GPTs have to guess at what you want, the more likely you’ll get it.  
+GPTs不会读心术。如果输出太长，要求它简短答复。如果输出太简单，要求专家级的回复。如果你不喜欢这个格式，展示下你喜欢的格式。当GPTs需要猜你想要的成分越少时，你更可能获得好的回答。
 
 Tactics:
 
