@@ -8,7 +8,7 @@ Some of the examples demonstrated here currently work only with our most capable
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/six-strategies-for-getting-better-results)
 
-## [Six strategies for getting better results](https://platform.openai.com/docs/guides/gpt-best-practices/six-strategies-for-getting-better-results)
+## Six strategies for getting better results
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/write-clear-instructions)
 
