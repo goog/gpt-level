@@ -2,9 +2,10 @@
 
 ## [GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices/gpt-best-practices)
 
-This guide shares strategies and tactics for getting better results from GPTs. The methods described here can sometimes be deployed in combination for greater effect. We encourage experimentation to find the methods that work best for you.
+This guide shares strategies and tactics for getting better results from GPTs. The methods described here can sometimes be deployed in combination for greater effect. We encourage experimentation to find the methods that work best for you.  
+本指导书分享了帮助取得更好的GPTs结果的策略和方法。有时这些方法可以联合起来使用产生更好的效果。我们鼓励多实验以找到最适合您的方法。    
 
-Some of the examples demonstrated here currently work only with our most capable model, `gpt-4`. If you don't yet have access to `gpt-4` consider joining the [waitlist](https://openai.com/waitlist/gpt-4-api). In general, if you find that a GPT model fails at a task and a more capable model is available, it's often worth trying again with the more capable model.
+一些例子可能需要在`gpt-4`才能正常运行，建议优先使用更强大的模型. 
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/six-strategies-for-getting-better-results)
 
