@@ -8,7 +8,7 @@ Some of the examples demonstrated here currently work only with our most capable
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/six-strategies-for-getting-better-results)
 
-## Six strategies for getting better results
+## 六个帮助获得更好结果的策略Six strategies for getting better results
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/write-clear-instructions)
 
@@ -73,7 +73,7 @@ Tactics:
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/test-changes-systematically)
 
-### [Test changes systematically](https://platform.openai.com/docs/guides/gpt-best-practices/test-changes-systematically)
+### [Test changes systematically系统性地测试改变](https://platform.openai.com/docs/guides/gpt-best-practices/test-changes-systematically)
 
 Improving performance is easier if you can measure it. In some cases a modification to a prompt will achieve better performance on a few isolated examples but lead to worse overall performance on a more representative set of examples. Therefore to be sure that a change is net positive to performance it may be necessary to define a comprehensive test suite (also known an as an "eval").
 
