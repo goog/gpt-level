@@ -12,7 +12,7 @@ Some of the examples demonstrated here currently work only with our most capable
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/write-clear-instructions)
 
-### [Write clear instructions](https://platform.openai.com/docs/guides/gpt-best-practices/write-clear-instructions)
+### [Write clear instructions写清晰的指令](https://platform.openai.com/docs/guides/gpt-best-practices/write-clear-instructions)
 
 GPTs can’t read your mind. If outputs are too long, ask for brief replies. If outputs are too simple, ask for expert-level writing. If you dislike the format, demonstrate the format you’d like to see. The less GPTs have to guess at what you want, the more likely you’ll get it.
 
@@ -27,7 +27,7 @@ Tactics:
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/provide-reference-text)
 
-### [Provide reference text](https://platform.openai.com/docs/guides/gpt-best-practices/provide-reference-text)
+### [Provide reference text提供一段引用的文字](https://platform.openai.com/docs/guides/gpt-best-practices/provide-reference-text)
 
 GPTs can confidently invent fake answers, especially when asked about esoteric topics or for citations and URLs. In the same way that a sheet of notes can help a student do better on a test, providing reference text to GPTs can help in answering with fewer fabrications.
 
@@ -38,7 +38,7 @@ Tactics:
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/split-complex-tasks-into-simpler-subtasks)
 
-### [Split complex tasks into simpler subtasks](https://platform.openai.com/docs/guides/gpt-best-practices/split-complex-tasks-into-simpler-subtasks)
+### [Split complex tasks into simpler subtasks化繁为简](https://platform.openai.com/docs/guides/gpt-best-practices/split-complex-tasks-into-simpler-subtasks)
 
 Just as it is good practice in software engineering to decompose a complex system into a set of modular components, the same is true of tasks submitted to GPTs. Complex tasks tend to have higher error rates than simpler tasks. Furthermore, complex tasks can often be re-defined as a workflow of simpler tasks in which the outputs of earlier tasks are used to construct the inputs to later tasks.
 
@@ -62,7 +62,7 @@ Tactics:
 
 [](https://platform.openai.com/docs/guides/gpt-best-practices/use-external-tools)
 
-### [Use external tools](https://platform.openai.com/docs/guides/gpt-best-practices/use-external-tools)
+### [Use external tools使用外部工具辅助](https://platform.openai.com/docs/guides/gpt-best-practices/use-external-tools)
 
 Compensate for the weaknesses of GPTs by feeding them the outputs of other tools. For example, a text retrieval system can tell GPTs about relevant documents. A code execution engine can help GPTs do math and run code. If a task can be done more reliably or efficiently by a tool rather than by a GPT, offload it to get the best of both.
 
