@@ -31,7 +31,8 @@ Tactics:
 
 ### [Provide reference text提供一段引用的文字](https://platform.openai.com/docs/guides/gpt-best-practices/provide-reference-text)
 
-GPTs can confidently invent fake answers, especially when asked about esoteric topics or for citations and URLs. In the same way that a sheet of notes can help a student do better on a test, providing reference text to GPTs can help in answering with fewer fabrications.
+GPTs can confidently invent fake answers, especially when asked about esoteric topics or for citations and URLs. In the same way that a sheet of notes can help a student do better on a test, providing reference text to GPTs can help in answering with fewer fabrications.  
+给GPT提供参考文本有助于在回答问题时减少捏造。
 
 Tactics:
 
