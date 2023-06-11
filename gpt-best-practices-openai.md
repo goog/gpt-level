@@ -82,7 +82,7 @@ Tactics:
 ### [Test changes systematically系统性地测试改动](https://platform.openai.com/docs/guides/gpt-best-practices/test-changes-systematically)
 
 Improving performance is easier if you can measure it. In some cases a modification to a prompt will achieve better performance on a few isolated examples but lead to worse overall performance on a more representative set of examples. Therefore to be sure that a change is net positive to performance it may be necessary to define a comprehensive test suite (also known an as an "eval").  
-因此为了确保一个变化对性能产生积极影响，可能有必要定义一个全面的测试套件（也被称为 "评估"）。
+因此为了确保一个更改对性能产生积极影响，可能有必要定义一个全面的测试套件（也被称为 "评估"）。
 
 Tactic:
 
