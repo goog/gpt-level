@@ -56,7 +56,8 @@ Tactics:
 
 ### [Give GPTs time to "think"尝试使用CoT(chain of thinking)](https://platform.openai.com/docs/guides/gpt-best-practices/give-gpts-time-to-think)
 
-If asked to multiply 17 by 28, you might not know it instantly, but can still work it out with time. Similarly, GPTs make more reasoning errors when trying to answer right away, rather than taking time to work out an answer. Asking for a chain of reasoning before an answer can help GPTs reason their way toward correct answers more reliably.
+If asked to multiply 17 by 28, you might not know it instantly, but can still work it out with time. Similarly, GPTs make more reasoning errors when trying to answer right away, rather than taking time to work out an answer. Asking for a chain of reasoning before an answer can help GPTs reason their way toward correct answers more reliably.  
+当被问17*28时 你可能不是马上知道，但是花点时间可以解答出来。类似地GPT在试图立即回答时会犯更多的推理错误，而不是花时间去找出答案。要求GPTs使用推理链可以帮助更可信地推理出正确答案。
 
 Tactics:
 
