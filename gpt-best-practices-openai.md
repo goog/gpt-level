@@ -43,7 +43,8 @@ Tactics:
 
 ### [Split complex tasks into simpler subtasks化繁为简](https://platform.openai.com/docs/guides/gpt-best-practices/split-complex-tasks-into-simpler-subtasks)
 
-Just as it is good practice in software engineering to decompose a complex system into a set of modular components, the same is true of tasks submitted to GPTs. Complex tasks tend to have higher error rates than simpler tasks. Furthermore, complex tasks can often be re-defined as a workflow of simpler tasks in which the outputs of earlier tasks are used to construct the inputs to later tasks.
+Just as it is good practice in software engineering to decompose a complex system into a set of modular components, the same is true of tasks submitted to GPTs. Complex tasks tend to have higher error rates than simpler tasks. Furthermore, complex tasks can often be re-defined as a workflow of simpler tasks in which the outputs of earlier tasks are used to construct the inputs to later tasks.  
+正如在软件工程中，将一个复杂的系统分解成一系列的模块化组件是一个很好的做法，提交给GPT的任务也是如此。复杂的任务往往比简单任务有更高的错误率。此外，复杂的任务通常可以被重新定义为较简单任务的工作流程，其中早期任务的输出被用来构建后面任务的输入
 
 Tactics:
 
