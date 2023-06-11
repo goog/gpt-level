@@ -69,7 +69,8 @@ Tactics:
 
 ### [Use external tools使用外部工具辅助](https://platform.openai.com/docs/guides/gpt-best-practices/use-external-tools)
 
-Compensate for the weaknesses of GPTs by feeding them the outputs of other tools. For example, a text retrieval system can tell GPTs about relevant documents. A code execution engine can help GPTs do math and run code. If a task can be done more reliably or efficiently by a tool rather than by a GPT, offload it to get the best of both.
+Compensate for the weaknesses of GPTs by feeding them the outputs of other tools. For example, a text retrieval system can tell GPTs about relevant documents. A code execution engine can help GPTs do math and run code. If a task can be done more reliably or efficiently by a tool rather than by a GPT, offload it to get the best of both.  
+通过给GPTs提供其他工具的输出可以弥补其不足。例如 一个文本的检索系统可以告诉GPTs相关的文档。一个代码执行引擎可以帮助做算术和运行代码。如果一个任务可以被更可靠高效的工具完成时，可以搁置GPT以取得最好的结果。
 
 Tactics:
 
