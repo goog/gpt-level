@@ -4,7 +4,7 @@
 2. memory
 3. tool use
 
-![image](https://ibb.co/XDCvhRk)
+![a image](https://ibb.co/XDCvhRk)  
 chatGPT目前在这三个方面的能力是  
 |能力| 得分 |
 |--|--|
@@ -14,7 +14,7 @@ chatGPT目前在这三个方面的能力是
 ## planning
 规划子任务和推理  
 ~~Reflection~~ and refinement(完善)  
-反思应该比较难，通过retry去完善一个子任务是可能可以达成的。
+反思应该比较难，通过retry去完善一个子任务是可能可以达成的。  
 reflection mechanism:synthesizes memories into higher level inferences over time and guides the agent's future behavior  
 
 ## memory
