@@ -21,7 +21,9 @@ gates先生最后说到：
 > As I [argued](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun#ALChapter3) in my February post, it’s good for society when productivity goes up. It gives people more time to do other things, at work and at home
 
 在内卷的社会或人口众多的社会里面这个根本就无法实现。  
-学生还是需要锻炼下写作能力，毕竟能清楚的用文字表达是一个人的沟通能力。写作是一个专业的技能。
+学生还是需要锻炼下写作能力，毕竟能清楚的用文字表达是一个人的沟通能力。写作是一个专业的技能。  
+还有一点AI最好不要用于军事，否则不是你涂炭就是我涂炭。 AI军事无人机杀你分分钟的事。   
+![AI IS GOD](20230723065220.jpg)
 
 
 
