@@ -1,6 +1,7 @@
 # gpt-level
 define levels of GPT(LLM) like levels of driving automation
 
+update Aug 17 2023: GPT-5 will take over Intermediate programmers in some domains (90%)  
 
 | Level | Define | Example |
 | :------: | :------: | :------: |
